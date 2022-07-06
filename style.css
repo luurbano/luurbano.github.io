@@ -1,0 +1,83 @@
+.elemento1{
+    background-color: rgba(119, 241, 119, 0.349);
+    width: 600px;
+    height: 80px;
+    margin: 15px;
+    border-style: dashed;
+    border-color:rgba(119, 241, 119, 0.432) ;
+    margin-left: 250px;
+    margin-top: -10px;
+    position: relative;
+    float: left;
+}
+.elemento2{
+    z-index: 1;
+    background-color: rgba(119, 241, 119, 0.349); 
+    width: 600px;
+    height: 80px;
+    margin: 15px;
+    margin-left: 250px;
+    border-style: dashed;
+    border-color: rgba(119, 241, 119, 0.37); 
+    position: relative;
+    float: left;
+    margin-top: -50px
+    
+    
+    
+}
+   
+.elemento3{
+    z-index: 2;
+    background-color: rgba(255, 0, 0, 0.281);
+    width: 500px;
+    height: 550px;
+   
+    border-style: dashed;
+    border-color:rgba(255, 0, 0, 0.281); 
+    margin-left: 400px;
+    margin-top: 100px;
+    position: relative;
+}
+.elemento4{
+    z-index: 5;
+    background-color: rgba(243, 243, 146, 0.37);
+    width: 380px;
+    height: 90px;
+    margin: 50px;
+    border-style: dashed;
+    border-color: rgba(243, 243, 146, 0.37); 
+    position: absolute;
+    margin-top: -50px;
+
+
+}
+.elemento5{
+    z-index: 3;
+    background-color: rgba(243, 243, 146, 0.37);
+    width: 380px;
+    height: 90px;
+    margin: 50px;
+   
+    border-style: dashed;
+    border-color: rgba(243, 243, 146, 0.37); 
+    position: absolute;
+    margin-top: 300px;
+
+
+}
+.elemento6{
+    z-index: 4;
+    background-color: rgba(146, 53, 233, 0.37);
+    width: 200px;
+    height: 450px;
+    margin: 50px;
+    margin-top: -60px;
+    margin-left: 300px;
+    border-style: dashed;
+    border-color: rgba(146, 53, 233, 0.37);
+    position: absolute;
+    margin-left: 200px;
+
+
+}
